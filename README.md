@@ -1,3 +1,5 @@
 # Demo
 
-This is demo git repository
+This is demo Git Repository!
+
+How to use Git tutorial, By Gwen from Faraday Academy
